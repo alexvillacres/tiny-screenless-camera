@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Embedded build outputs
+.pio/
+build/
+
+# Local environment and logs
+.env
+.env.*
+*.log
+
